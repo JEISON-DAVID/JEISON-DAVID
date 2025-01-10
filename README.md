@@ -1,54 +1,77 @@
+# 👋 ¡Hola Mundo! Soy Jeison David
 
-# 👋 ¡Hola! Soy [JEISON DAVID]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A2&random=false&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Aprendiz+constante)](https://git.io/typing-svg)
 
-## 👨‍💻 Desarrollador de Software | 🌱 Aprendiz Constante
+<div align="center">
+  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Banner" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-</p>
+## 🚀 Sobre mí
 
-### 🚀 Sobre mí
+Soy un desarrollador Full Stack apasionado por crear experiencias digitales únicas. Me especializo en desarrollo web y disfruto transformando ideas creativas en soluciones tecnológicas innovadoras.
 
-Soy un apasionado desarrollador de software con experiencia en [tus tecnologías principales]. Me encanta resolver problemas complejos y crear soluciones elegantes que mejoren la vida de las personas.
+## 💻 Stack Tecnológico
 
-### 💼 Habilidades Técnicas
-
-```text
-Frontend:     HTML5, CSS3, JavaScript, React
-Backend:      Node.js, Python, Java
-Databases:    MongoDB, PostgreSQL
-Tools:        Git, Docker, AWS
+```javascript
+const skills = {
+    frontend: ['HTML5', 'CSS3', 'JavaScript', 'React'],
+    backend: ['Node.js', 'Python', 'Java'],
+    databases: ['MongoDB', 'PostgreSQL'],
+    tools: ['Git', 'Docker', 'AWS'],
+    currentlyLearning: ['React Native', 'TypeScript']
+};
 ```
 
-### 🌟 Proyectos Destacados
+## 🏆 Proyectos Destacados
+
+### 🌟 ANIME GALAXI
+Una plataforma de streaming de anime gratuita
+- 🔗 [Ver Proyecto](https://jeison-david.github.io/Anime-/)
+- 🛠️ **Tech Stack:** React, Node.js, MongoDB
+- ✨ **Características:** Streaming HD, Catálogo extenso, UI intuitiva
+
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Logo" width="100%">
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jeison-David&show_icons=true&theme=tokyonight)
 
-**[ANIME GALAXI]** - [WED DE STREAMING DE ANIME GRATIS]
-  - 🔗 [https://jeison-david.github.io/Anime-/]
-  - 🛠️ Tecnologías: React, Node.js, MongoDB
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-David&layout=compact&theme=tokyonight)
 
-- **[Nombre del Proyecto 2]** - [Breve descripción]
-  - 🔗 [Link al repositorio]
-  - 🛠️ Tecnologías: Python, Django, PostgreSQL
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeison-David&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
 
-### 📊 Estadísticas
+## 🤝 Conecta Conmigo
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JEISON-DAVID&show_icons=true&theme=radical" alt="GitHub Streak Stats"/>
-</p>
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeisondehoyos630@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU-LINK-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](TU-LINK-PORTFOLIO)
+  
+</div>
 
-
-### 🤝 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](TU-LINK-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](TU-LINK-TWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](TU-LINK-PORTFOLIO)
-
-### 📫 Contacto
-
-- 📧 Email: jeisondehoyos630@gmail.com
-- 💼 LinkedIn: [Tu Perfil](TU-LINK-LINKEDIN)
-- 🌐 Website: [Tu Sitio Web](TU-LINK-WEBSITE)
+## 📌 Proyectos en Desarrollo
+- 🎮 Plataforma de gaming
+- 📱 Aplicación móvil con React Native
+- 🤖 Bot de Discord para comunidades
 
 ---
+
+<div align="center">
+  
+### 👾 Visitantes
+
+![Visitor Count](https://profile-counter.glitch.me/Jeison-David/count.svg)
+  
+</div>
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
