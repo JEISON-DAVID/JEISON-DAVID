@@ -34,11 +34,11 @@ Una plataforma de streaming de anime gratuita
 
 <div align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jeison-David&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-David&layout=compact&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JEISON-DAVID&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeison-David&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
