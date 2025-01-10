@@ -1,128 +1,128 @@
+<!-- Encabezado con banner dinámico -->
 <div align="center">
-  
-  <!-- Banner va aquí -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Desarrollador+Full+Stack+%7C+Innovador+Digital;Construyendo+el+Futuro%2C+Una+L%C3%ADnea+de+C%C3%B3digo+a+la+Vez)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Jeison%20David&desc=Full%20Stack%20Developer&animation=fadeIn&fontSize=90&fontAlignY=35&descSize=25&descAlignY=55"/>
+</div>
+
+<!-- Introducción Animada -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3FFFAE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Passionate+Full+Stack+Developer;Building+Digital+Solutions+%7C+Creating+Experiences;Always+Learning%2C+Always+Growing" alt="Typing SVG"/>
+  </a>
+</div>
+
+<!-- Badges de perfil -->
+<div align="center">
+  <a href="https://linkedin.com/in/[tu-usuario]">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jeisondehoyos630@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="[tu-portfolio]">
+    <img src="https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JEISON-DAVID&style=for-the-badge&color=0e75b6"/>
+</div>
+
+<!-- Sobre mí con gráfico -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> 
+    Sobre mí
+  </h2>
+</div>
+
+```javascript
+const jeisonDavid = {
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        frontend: {
+            js: ["React", "Next.js", "Vue.js"],
+            css: ["Tailwind", "SASS", "Styled-Components"]
+        },
+        backend: {
+            js: ["Node.js", "Express", "NestJS"],
+            python: ["Django", "FastAPI"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
+        tools: ["Git", "GitHub Actions", "Jenkins", "Jira"]
+    },
+    currentFocus: "Construyendo aplicaciones web escalables y eficientes"
+};
+```
+
+<!-- Estadísticas -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> 
+    Estadísticas
+  </h2>
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jeisondehoyos630@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="tu-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-00DC82?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/JEISON-DAVID">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JEISON-DAVID&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
+<!-- Proyectos Destacados -->
 <div align="center">
-  <h2>🚀 Sobre Mí</h2>
-  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwYmJ2aTVqN2RpNTVrZWlxbjEyenE4N3kwMmoxOGkzMXNyYjZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-
-```typescript
-class FullStackDeveloper {
-    readonly name = "Jeison David";
-    readonly role = "Full Stack Developer";
-    readonly languages = ["JavaScript", "TypeScript", "Python", "Java"];
-    readonly challenges = "Resolviendo problemas, uno a la vez 💡";
-    
-    getCurrentStack() {
-        return {
-            frontend: {
-                frameworks: ["React", "Next.js"],
-                styling: ["Tailwind CSS", "Styled Components"],
-                state: ["Redux", "Context API"]
-            },
-            backend: {
-                node: ["Express", "NestJS"],
-                python: ["Django", "FastAPI"],
-                java: ["Spring Boot"]
-            },
-            database: {
-                sql: ["PostgreSQL", "MySQL"],
-                nosql: ["MongoDB", "Redis"],
-                orm: ["Prisma", "TypeORM"]
-            },
-            tools: ["Docker", "Git", "AWS", "CI/CD"]
-        };
-    }
-}
-```
-
-<div align="center">
-  <h2>🎯 Proyectos Destacados</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRjYjNlYjJiN2I5NDNmOGE0NDgyZDY5NjJjZjIyMzMxOTc0YmUxYiZjdD1z/GD5xkBn2CkFtKSSXzv/giphy.gif" width="24">
+    Proyectos Destacados
+  </h2>
 </div>
 
 <div align="center">
   <a href="https://github.com/JEISON-DAVID/Anime-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JEISON-DAVID&repo=Anime-&theme=github_dark&hide_border=true&show_icons=true&bg_color=0D1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JEISON-DAVID&repo=Anime-&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
-<br/>
-
-### 🌟 ANIME GALAXI
+<!-- Stack de Tecnologías -->
 <div align="center">
-  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Preview" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" width="600px"/>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Producción-00DC82?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Versión-2.0.0-blue?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge&logo=license&logoColor=white"/>
-</p>
-
-**💡 Descripción:**
-> Una plataforma revolucionaria de streaming de anime que redefine la experiencia del usuario mediante tecnologías de vanguardia y un diseño intuitivo.
-
-**🛠️ Tecnologías Principales:**
-```json
-{
-  "frontend": ["React", "Redux", "Tailwind CSS"],
-  "backend": ["Node.js", "Express", "MongoDB"],
-  "infraestructura": ["AWS", "Docker", "Nginx"],
-  "testing": ["Jest", "React Testing Library"],
-  "ci/cd": ["GitHub Actions", "Docker Hub"]
-}
-```
-
-<div align="center">
-  <h2>📊 Estadísticas de GitHub</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="24">
+    Stack Tecnológico
+  </h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=github-dark&hide_border=true&background=0D1117&stroke=00DC82&ring=00DC82&fire=FF6D00&currStreakNum=FFFFFF&sideNums=00DC82&currStreakLabel=00DC82&sideLabels=00DC82&dates=FFFFFF" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00DC82&icon_color=00DC82" width="49%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,figma,nginx,redis&theme=dark" />
 </div>
 
+<!-- Trofeos de GitHub -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEISON-DAVID&theme=github-dark&hide_border=true&bg_color=0D1117&color=00DC82&line=00DC82&point=FFFFFF&area=true&area_color=00DC82" width="98%" />
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc2MzgxYmY2NDYzOGRjYzcwZjVhYjkwOTBiYzAwNjE5YzczNGFiNiZjdD1z/cKyLpvJPSpLYvLQfkh/giphy.gif" width="24">
+    Trofeos
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=JEISON-DAVID&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
+<!-- Gráfico de Contribuciones -->
 <div align="center">
-  <h2>💻 Stack Tecnológico</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ5ZTZhOGUwZjM5MTE4MTgwNGQ1OGU5YzNlN2YyZGQ1OGRhZTBiNSZjdD1z/W5eoZHPpUx9sapR0eu/giphy.gif" width="24">
+    Contribuciones
+  </h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEISON-DAVID&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%"/>
 </div>
 
+<!-- Animación Snake -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,java,mongodb,postgres,aws,docker&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,redis,nginx,kubernetes&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEISON-DAVID/JEISON-DAVID/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEISON-DAVID/JEISON-DAVID/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JEISON-DAVID/JEISON-DAVID/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+<!-- Footer -->
 <div align="center">
-  <h2>🏆 Logros de GitHub</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=JEISON-DAVID&theme=darkhub&no-frame=true&margin-w=15&column=-1" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=El%20código%20es%20poesía%20escrita%20en%20lógica.&author=Jeison%20David" width="600"/>
-  
-  ![](https://komarev.com/ghpvc/?username=JEISON-DAVID&color=00DC82&style=for-the-badge)
-</div>
-
-<div align="center">
-  <img src="https://github.com/JEISON-DAVID/JEISON-DAVID/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer"/>
 </div>
