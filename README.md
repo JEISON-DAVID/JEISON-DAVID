@@ -31,7 +31,7 @@ const sobreMi = {
       <div align="center">
         <img src="IMG-20250109-WA0002.jpg" alt="Proyecto Screenshot" width="400" height="200"/>
         <p>
-          <a href="github-repo-link" target="_blank">
+          <a href="https://github.com/JEISON-DAVID/Anime-" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
           <a href="demo-link" target="_blank">
