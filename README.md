@@ -104,7 +104,7 @@ const sobreMi = {
   
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Tu-linkedIn)
   [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Tu-twitter)
-  [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](Tu-portfolio)
+  [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jeison-david.github.io/Portafolio-/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=TuUsuario&color=blueviolet&style=for-the-badge)
 </div>
