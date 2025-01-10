@@ -92,6 +92,8 @@ Plataforma social para gamers (En desarrollo)
 ---
 
 <div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
   
 ### 👾 Visitantes
 
