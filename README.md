@@ -22,7 +22,7 @@ Tools:        Git, Docker, AWS
 
 ### 🌟 Proyectos Destacados
 <div align="center">
-  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Logo" width="200px">
+  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Logo" width="100%">
 
 **[ANIME GALAXI]** - [WED DE STREAMING DE ANIME GRATIS]
   - 🔗 [https://jeison-david.github.io/Anime-/]
