@@ -4,7 +4,7 @@
 ## 👨‍💻 Desarrollador de Software | 🌱 Aprendiz Constante
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
 </p>
 
 ### 🚀 Sobre mí
