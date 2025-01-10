@@ -10,6 +10,8 @@
   </a>
 </div>
 
+
+
 <!-- Badges de perfil -->
 <div align="center">
   <a href="https://linkedin.com/in/[tu-usuario]">
@@ -23,6 +25,8 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=JEISON-DAVID&style=for-the-badge&color=0e75b6"/>
 </div>
+
+
 
 <!-- Sobre mí con gráfico -->
 <div align="center">
@@ -52,6 +56,8 @@ const jeisonDavid = {
     currentFocus: "Construyendo aplicaciones web escalables y eficientes"
 };
 ```
+
+
 
 <!-- Estadísticas -->
 <div align="center">
