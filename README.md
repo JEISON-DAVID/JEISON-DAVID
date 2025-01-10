@@ -2,7 +2,7 @@
   
   # ```console.log('¡Hola Mundo! 👋')```
   
-  [<img src="/api/placeholder/800/200" alt="Banner personalizado" />](Tu-portfolio-link)
+  [<img src="baner.svg" alt="Banner personalizado" />](Tu-portfolio-link)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F726&random=false&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 </div>
@@ -27,9 +27,9 @@ const sobreMi = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌟 [Nombre del Proyecto]</h3>
+      <h3 align="center">🌟 [ANIME GALAXI]</h3>
       <div align="center">
-        <img src="/api/placeholder/400/200" alt="Proyecto Screenshot" width="400" height="200"/>
+        <img src="IMG-20250109-WA0002.jpg" alt="Proyecto Screenshot" width="400" height="200"/>
         <p>
           <a href="github-repo-link" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
@@ -38,7 +38,7 @@ const sobreMi = {
             <img src="https://img.shields.io/badge/DEMO-blue?style=for-the-badge&logoColor=white"/>
           </a>
         </p>
-        <p><strong>React - Node.js - MongoDB - TypeScript</strong></p>
+        <p><strong>React - HTML -CSS-JS </strong></p>
         <p>Una aplicación innovadora que revoluciona [sector/área] mediante [tecnologías/características únicas]. Implementa [característica destacada] para [beneficio principal].</p>
       </div>
     </td>
