@@ -2,7 +2,7 @@
   
   # ```console.log('¡Hola Mundo! 👋')```
   
-  [<img src="baner.svg" alt="Banner personalizado" />](Tu-portfolio-link)
+  [<img src="banner.svg" alt="Banner personalizado" />](Tu-portfolio-link)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F726&random=false&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 </div>
