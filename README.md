@@ -95,9 +95,9 @@ Plataforma social para gamers (En desarrollo)
   
 ### 👾 Visitantes
 
-![Visitor Count](https://profile-counter.glitch.me/Jeison-David/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/JEISON-DAVID/count.svg)
   
-<img src="https://raw.githubusercontent.com/Jeison-David/Jeison-David/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/JEISON-DAVIF/JEISON-DAVID/output/github-contribution-grid-snake.svg" alt="snake animation" />
   
 </div>
 
