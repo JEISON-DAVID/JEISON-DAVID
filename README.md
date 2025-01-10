@@ -75,7 +75,7 @@ Plataforma social para gamers (En desarrollo)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-David&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeison-David&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
