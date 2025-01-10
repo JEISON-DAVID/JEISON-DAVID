@@ -22,8 +22,8 @@ Tools:        Git, Docker, AWS
 
 ### 🌟 Proyectos Destacados
 
-**[Nombre del Proyecto 1]** - [Breve descripción]
-  - 🔗 [Link al repositorio]
+**[ANIME GALAXI]** - [WED DE STREAMING DE ANIME GRATIS]
+  - 🔗 [https://jeison-david.github.io/Anime-/]
   - 🛠️ Tecnologías: React, Node.js, MongoDB
 
 - **[Nombre del Proyecto 2]** - [Breve descripción]
