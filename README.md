@@ -41,7 +41,7 @@ Soy un desarrollador Full Stack apasionado por crear experiencias digitales úni
 <div align="center">
 
 ### 🌟 ANIME GALAXI
-<img src="https://raw.githubusercontent.com/Jeison-David/Anime-/main/preview.png" alt="ANIME GALAXI Preview" width="600px"/>
+<img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Preview" width="600px"/>
 
 Una plataforma de streaming de anime gratuita que ofrece una experiencia única para los amantes del anime.
 
@@ -71,7 +71,7 @@ Plataforma social para gamers (En desarrollo)
 
 <div align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jeison-David&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-David&layout=compact&theme=tokyonight)
 
