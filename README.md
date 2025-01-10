@@ -44,7 +44,7 @@ Tools:        Git, Docker, AWS
 
 ### 📫 Contacto
 
-- 📧 Email: tu.email@ejemplo.com
+- 📧 Email: jeisondehoyos630@gmail.com
 - 💼 LinkedIn: [Tu Perfil](TU-LINK-LINKEDIN)
 - 🌐 Website: [Tu Sitio Web](TU-LINK-WEBSITE)
 
