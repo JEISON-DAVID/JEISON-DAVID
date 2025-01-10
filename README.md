@@ -1,105 +1,141 @@
-# 👋 ¡Hola Mundo! Soy Jeison David
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7A2&random=false&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Aprendiz+constante)](https://git.io/typing-svg)
+<!-- Banner SVG -->
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A192F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#112240;stop-opacity:1" />
+    </linearGradient>
+    <style type="text/css">
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes glow {
+        0% { opacity: 0.5; }
+        50% { opacity: 1; }
+        100% { opacity: 0.5; }
+      }
+      .floating { animation: float 3s ease-in-out infinite; }
+      .glowing { animation: glow 2s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  <g class="floating">
+    <circle cx="50" cy="50" r="15" fill="#64FFDA" opacity="0.3"/>
+    <circle cx="750" cy="150" r="15" fill="#64FFDA" opacity="0.3"/>
+  </g>
+  <g class="glowing">
+    <text x="50%" y="45%" text-anchor="middle" fill="#64FFDA" font-family="Arial" font-size="48" font-weight="bold">
+      JEISON DAVID
+    </text>
+    <text x="50%" y="65%" text-anchor="middle" fill="#8892B0" font-family="Arial" font-size="24">
+      Full Stack Developer | Creative Coder
+    </text>
+  </g>
+  <line x1="200" y1="160" x2="600" y2="160" stroke="#64FFDA" stroke-width="2" opacity="0.5"/>
+</svg>
 
 <div align="center">
-  <img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Banner" width="100%">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Coder;Tech+Enthusiast)](https://git.io/typing-svg)
 </div>
 
-## 🚀 Sobre mí
+# 💫 Sobre Mí
+```javascript
+const jeisonDavid = {
+    ubicación: "Colombia",
+    rol: "Full Stack Developer",
+    código: ["Javascript", "HTML", "CSS", "Python", "Java"],
+    tecnologías: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Bootstrap", "Tailwind CSS"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "PostgreSQL"],
+        devOps: ["AWS", "Docker", "Nginx"]
+    },
+    arquitectura: ["SPA", "MVC", "Microservicios"],
+    pasiones: ["Desarrollo Web", "Innovación Tecnológica", "Anime"]
+};
+```
 
-Soy un desarrollador Full Stack apasionado por crear experiencias digitales únicas. Me especializo en desarrollo web y disfruto transformando ideas creativas en soluciones tecnológicas innovadoras.
-
-## 💻 Tecnologías
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Base de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-## 🏆 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
 ### 🌟 ANIME GALAXI
-<img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Preview" width="600px"/>
+<img src="IMG-20250109-WA0002.jpg" alt="ANIME GALAXI Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" width="600px"/>
 
-Una plataforma de streaming de anime gratuita que ofrece una experiencia única para los amantes del anime.
+[![Estado](https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge&logo=github)](https://jeison-david.github.io/Anime-/)
+[![Demo](https://img.shields.io/badge/Demo-Live-64FFDA?style=for-the-badge&logo=vercel)](https://jeison-david.github.io/Anime-/)
+[![Repo](https://img.shields.io/badge/Código-GitHub-black?style=for-the-badge&logo=github)](https://github.com/JEISON-DAVID/Anime-)
 
-- 🔗 [Ver Proyecto](https://jeison-david.github.io/Anime-/)
-- 🛠️ **Tecnologías:** 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-- ✨ **Características:**
-  - Streaming HD
-  - Catálogo extenso
-  - UI intuitiva
-  - Actualizaciones semanales
-  - Sin publicidad intrusiva
+Plataforma de streaming de anime con características únicas y experiencia de usuario optimizada.
 
-### 🎮 GameHub Project
-<img src="https://raw.githubusercontent.com/Jeison-David/GameHub/main/preview.png" alt="GameHub Preview" width="600px"/>
+**🛠️ Stack Tecnológico:**
+- Frontend: `React` `Redux` `Tailwind CSS`
+- Backend: `Node.js` `Express` `MongoDB`
+- Deploy: `AWS` `Docker`
 
-Plataforma social para gamers (En desarrollo)
-- 🎯 **Objetivo:** Conectar jugadores y compartir experiencias gaming
-- 🛠️ **Stack:** React, Firebase, Redux
-- 📱 Disponible para Web y Móvil
+**✨ Características Principales:**
+- 🎥 Streaming HD sin interrupciones
+- 📱 Diseño responsive
+- 🔍 Búsqueda avanzada
+- 📈 Sistema de recomendaciones
+- 🔄 Actualizaciones automáticas
+</div>
+
+## 💻 Tech Stack
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-## 📊 Estadísticas de GitHub
-
+## 📊 GitHub Stats
 <div align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=tokyonight&hide_border=true)](https://github.com/JEISON-DAVID)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeison-David&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEISON-DAVID&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=tokyonight)](https://git.io/streak-stats)
-  
 </div>
 
-## 🤝 Conecta Conmigo
-
+## 🏆 GitHub Trophies
 <div align="center">
   
+![](https://github-profile-trophy.vercel.app/?username=JEISON-DAVID&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+## 🌐 Conéctate Conmigo
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](tu-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeisondehoyos630@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU-LINK-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](TU-LINK-PORTFOLIO)
-  
+
 </div>
 
 ---
 
 <div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
   
-### 👾 Visitantes
-
-![Visitor Count](https://profile-counter.glitch.me/JEISON-DAVID/count.svg)
+  ![](https://visitcount.itsvg.in/api?id=JEISON-DAVID&label=Profile%20Views&color=0&icon=5&pretty=true)
   
-<img src="https://raw.githubusercontent.com/JEISON-DAVIF/JEISON-DAVID/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  
+  <img src="https://github.com/JEISON-DAVID/JEISON-DAVID/blob/output/github-contribution-grid-snake.svg" alt="🐍"/>
 </div>
-
