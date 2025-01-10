@@ -35,8 +35,9 @@ Tools:        Git, Docker, AWS
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JEISON-DAVID&show_icons=true&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JEISON-DAVID&show_icons=true&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+
 
 ### 🤝 Conectemos
 
