@@ -69,8 +69,8 @@ const sobreMi = {
   
   ### Frontend
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![html](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=html&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Javascript&logoColor=white)
   
   ### Backend
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
