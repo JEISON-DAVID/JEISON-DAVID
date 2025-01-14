@@ -94,7 +94,7 @@ const sobreMi = {
 <details>
   <summary>🌟 Más estadísticas</summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
