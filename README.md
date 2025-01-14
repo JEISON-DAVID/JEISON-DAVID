@@ -9,10 +9,10 @@
 
 ```javascript
 const sobreMi = {
-    nombre: "[Tu Nombre]",
+    nombre: "[Jeison david]",
     rol: "Desarrollador Full Stack",
     datos: {
-        ubicación: "🌍 [Tu Ciudad, País]",
+        ubicación: "🌍 [Barranquilla, Colombia]",
         intereses: ["Web3", "IA", "Open Source"],
         café_diario: true,
         modo_actual: "🚀 Building something amazing..."
