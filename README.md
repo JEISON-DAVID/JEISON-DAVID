@@ -88,7 +88,7 @@ const sobreMi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeison-david&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 <details>
