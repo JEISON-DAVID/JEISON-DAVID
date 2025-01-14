@@ -88,14 +88,14 @@ const sobreMi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEISON-DAVID&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JEISON-DAVID&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 <details>
   <summary>🌟 Más estadísticas</summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JEISON-DAVID&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEISON-DAVID&layout=compact&theme=radical" alt="Top Languages" />
   </div>
 </details>
 
@@ -106,7 +106,7 @@ const sobreMi = {
   [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Tu-twitter)
   [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jeison-david.github.io/Portafolio-/)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TuUsuario&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=JEISON-DAVID&color=blueviolet&style=for-the-badge)
 </div>
 
 ---
